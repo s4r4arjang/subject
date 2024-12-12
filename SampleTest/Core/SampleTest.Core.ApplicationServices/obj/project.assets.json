@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "SampleTest.Core.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/SampleTest.Core.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SampleTest.Core.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "SampleTest.Core.Domain/1.0.0": {
+      "type": "project",
+      "path": "../SampleTest.Core.Domain/SampleTest.Core.Domain.csproj",
+      "msbuildProject": "../SampleTest.Core.Domain/SampleTest.Core.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "SampleTest.Core.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\sajad\\.nuget\\packages\\": {},
@@ -40,7 +59,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\SaraWorkspace\\subject\\SampleTest\\Core\\SampleTest.Core.Domain\\SampleTest.Core.Domain.csproj": {
+              "projectPath": "E:\\SaraWorkspace\\subject\\SampleTest\\Core\\SampleTest.Core.Domain\\SampleTest.Core.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

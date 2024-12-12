@@ -4,14 +4,14 @@
     "E:\\SaraWorkspace\\subject\\SampleTest\\Infrastructure\\SampleTest.Infra.EFSql\\SampleTest.Infra.EFSql.csproj": {}
   },
   "projects": {
-    "E:\\SaraWorkspace\\subject\\SampleTest\\Infrastructure\\SampleTest.Infra.EFSql\\SampleTest.Infra.EFSql.csproj": {
+    "E:\\SaraWorkspace\\subject\\SampleTest\\Core\\SampleTest.Core.Domain\\SampleTest.Core.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SaraWorkspace\\subject\\SampleTest\\Infrastructure\\SampleTest.Infra.EFSql\\SampleTest.Infra.EFSql.csproj",
-        "projectName": "SampleTest.Infra.EFSql",
-        "projectPath": "E:\\SaraWorkspace\\subject\\SampleTest\\Infrastructure\\SampleTest.Infra.EFSql\\SampleTest.Infra.EFSql.csproj",
+        "projectUniqueName": "E:\\SaraWorkspace\\subject\\SampleTest\\Core\\SampleTest.Core.Domain\\SampleTest.Core.Domain.csproj",
+        "projectName": "SampleTest.Core.Domain",
+        "projectPath": "E:\\SaraWorkspace\\subject\\SampleTest\\Core\\SampleTest.Core.Domain\\SampleTest.Core.Domain.csproj",
         "packagesPath": "C:\\Users\\sajad\\.nuget\\packages\\",
-        "outputPath": "E:\\SaraWorkspace\\subject\\SampleTest\\Infrastructure\\SampleTest.Infra.EFSql\\obj\\",
+        "outputPath": "E:\\SaraWorkspace\\subject\\SampleTest\\Core\\SampleTest.Core.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages"
@@ -45,6 +45,88 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\SaraWorkspace\\subject\\SampleTest\\Infrastructure\\SampleTest.Infra.EFSql\\SampleTest.Infra.EFSql.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\SaraWorkspace\\subject\\SampleTest\\Infrastructure\\SampleTest.Infra.EFSql\\SampleTest.Infra.EFSql.csproj",
+        "projectName": "SampleTest.Infra.EFSql",
+        "projectPath": "E:\\SaraWorkspace\\subject\\SampleTest\\Infrastructure\\SampleTest.Infra.EFSql\\SampleTest.Infra.EFSql.csproj",
+        "packagesPath": "C:\\Users\\sajad\\.nuget\\packages\\",
+        "outputPath": "E:\\SaraWorkspace\\subject\\SampleTest\\Infrastructure\\SampleTest.Infra.EFSql\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sajad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Users\\sajad\\.nuget\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\SaraWorkspace\\subject\\SampleTest\\Core\\SampleTest.Core.Domain\\SampleTest.Core.Domain.csproj": {
+                "projectPath": "E:\\SaraWorkspace\\subject\\SampleTest\\Core\\SampleTest.Core.Domain\\SampleTest.Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -1,0 +1,15 @@
+E:\SaraWorkspace\subject\SampleTest\Core\SampleTest.Core.ApplicationServices\bin\Debug\net6.0\SampleTest.Core.ApplicationServices.deps.json
+E:\SaraWorkspace\subject\SampleTest\Core\SampleTest.Core.ApplicationServices\bin\Debug\net6.0\SampleTest.Core.ApplicationServices.dll
+E:\SaraWorkspace\subject\SampleTest\Core\SampleTest.Core.ApplicationServices\bin\Debug\net6.0\SampleTest.Core.ApplicationServices.pdb
+E:\SaraWorkspace\subject\SampleTest\Core\SampleTest.Core.ApplicationServices\bin\Debug\net6.0\SampleTest.Core.Domain.dll
+E:\SaraWorkspace\subject\SampleTest\Core\SampleTest.Core.ApplicationServices\bin\Debug\net6.0\SampleTest.Core.Domain.pdb
+E:\SaraWorkspace\subject\SampleTest\Core\SampleTest.Core.ApplicationServices\obj\Debug\net6.0\SampleTest.Core.ApplicationServices.csproj.AssemblyReference.cache
+E:\SaraWorkspace\subject\SampleTest\Core\SampleTest.Core.ApplicationServices\obj\Debug\net6.0\SampleTest.Core.ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+E:\SaraWorkspace\subject\SampleTest\Core\SampleTest.Core.ApplicationServices\obj\Debug\net6.0\SampleTest.Core.ApplicationServices.AssemblyInfoInputs.cache
+E:\SaraWorkspace\subject\SampleTest\Core\SampleTest.Core.ApplicationServices\obj\Debug\net6.0\SampleTest.Core.ApplicationServices.AssemblyInfo.cs
+E:\SaraWorkspace\subject\SampleTest\Core\SampleTest.Core.ApplicationServices\obj\Debug\net6.0\SampleTest.Core.ApplicationServices.csproj.CoreCompileInputs.cache
+E:\SaraWorkspace\subject\SampleTest\Core\SampleTest.Core.ApplicationServices\obj\Debug\net6.0\SampleTest.Core.ApplicationServices.csproj.CopyComplete
+E:\SaraWorkspace\subject\SampleTest\Core\SampleTest.Core.ApplicationServices\obj\Debug\net6.0\SampleTest.Core.ApplicationServices.dll
+E:\SaraWorkspace\subject\SampleTest\Core\SampleTest.Core.ApplicationServices\obj\Debug\net6.0\refint\SampleTest.Core.ApplicationServices.dll
+E:\SaraWorkspace\subject\SampleTest\Core\SampleTest.Core.ApplicationServices\obj\Debug\net6.0\SampleTest.Core.ApplicationServices.pdb
+E:\SaraWorkspace\subject\SampleTest\Core\SampleTest.Core.ApplicationServices\obj\Debug\net6.0\ref\SampleTest.Core.ApplicationServices.dll

@@ -1,0 +1,12 @@
+E:\SaraWorkspace\subject\SampleTest\Core\SampleTest.Core.Domain\bin\Debug\net6.0\SampleTest.Core.Domain.deps.json
+E:\SaraWorkspace\subject\SampleTest\Core\SampleTest.Core.Domain\bin\Debug\net6.0\SampleTest.Core.Domain.dll
+E:\SaraWorkspace\subject\SampleTest\Core\SampleTest.Core.Domain\bin\Debug\net6.0\SampleTest.Core.Domain.pdb
+E:\SaraWorkspace\subject\SampleTest\Core\SampleTest.Core.Domain\obj\Debug\net6.0\SampleTest.Core.Domain.csproj.AssemblyReference.cache
+E:\SaraWorkspace\subject\SampleTest\Core\SampleTest.Core.Domain\obj\Debug\net6.0\SampleTest.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\SaraWorkspace\subject\SampleTest\Core\SampleTest.Core.Domain\obj\Debug\net6.0\SampleTest.Core.Domain.AssemblyInfoInputs.cache
+E:\SaraWorkspace\subject\SampleTest\Core\SampleTest.Core.Domain\obj\Debug\net6.0\SampleTest.Core.Domain.AssemblyInfo.cs
+E:\SaraWorkspace\subject\SampleTest\Core\SampleTest.Core.Domain\obj\Debug\net6.0\SampleTest.Core.Domain.csproj.CoreCompileInputs.cache
+E:\SaraWorkspace\subject\SampleTest\Core\SampleTest.Core.Domain\obj\Debug\net6.0\SampleTest.Core.Domain.dll
+E:\SaraWorkspace\subject\SampleTest\Core\SampleTest.Core.Domain\obj\Debug\net6.0\refint\SampleTest.Core.Domain.dll
+E:\SaraWorkspace\subject\SampleTest\Core\SampleTest.Core.Domain\obj\Debug\net6.0\SampleTest.Core.Domain.pdb
+E:\SaraWorkspace\subject\SampleTest\Core\SampleTest.Core.Domain\obj\Debug\net6.0\ref\SampleTest.Core.Domain.dll

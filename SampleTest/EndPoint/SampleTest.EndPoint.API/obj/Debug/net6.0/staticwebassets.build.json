@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IPHhEpkkcpWtzQE+NDP8Jd7FqA+B/msiXyHU20sp1TU=",
+  "Source": "SampleTest.EndPoint.API",
+  "BasePath": "_content/SampleTest.EndPoint.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

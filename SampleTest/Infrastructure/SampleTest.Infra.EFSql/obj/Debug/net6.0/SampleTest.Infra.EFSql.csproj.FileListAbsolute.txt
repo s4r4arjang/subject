@@ -1,0 +1,17 @@
+E:\SaraWorkspace\subject\SampleTest\Infrastructure\SampleTest.Infra.EFSql\bin\Debug\net6.0\SampleTest.Infra.EFSql.deps.json
+E:\SaraWorkspace\subject\SampleTest\Infrastructure\SampleTest.Infra.EFSql\bin\Debug\net6.0\SampleTest.Infra.EFSql.runtimeconfig.json
+E:\SaraWorkspace\subject\SampleTest\Infrastructure\SampleTest.Infra.EFSql\bin\Debug\net6.0\SampleTest.Infra.EFSql.dll
+E:\SaraWorkspace\subject\SampleTest\Infrastructure\SampleTest.Infra.EFSql\bin\Debug\net6.0\SampleTest.Infra.EFSql.pdb
+E:\SaraWorkspace\subject\SampleTest\Infrastructure\SampleTest.Infra.EFSql\bin\Debug\net6.0\SampleTest.Core.Domain.dll
+E:\SaraWorkspace\subject\SampleTest\Infrastructure\SampleTest.Infra.EFSql\bin\Debug\net6.0\SampleTest.Core.Domain.pdb
+E:\SaraWorkspace\subject\SampleTest\Infrastructure\SampleTest.Infra.EFSql\obj\Debug\net6.0\SampleTest.Infra.EFSql.csproj.AssemblyReference.cache
+E:\SaraWorkspace\subject\SampleTest\Infrastructure\SampleTest.Infra.EFSql\obj\Debug\net6.0\SampleTest.Infra.EFSql.GeneratedMSBuildEditorConfig.editorconfig
+E:\SaraWorkspace\subject\SampleTest\Infrastructure\SampleTest.Infra.EFSql\obj\Debug\net6.0\SampleTest.Infra.EFSql.AssemblyInfoInputs.cache
+E:\SaraWorkspace\subject\SampleTest\Infrastructure\SampleTest.Infra.EFSql\obj\Debug\net6.0\SampleTest.Infra.EFSql.AssemblyInfo.cs
+E:\SaraWorkspace\subject\SampleTest\Infrastructure\SampleTest.Infra.EFSql\obj\Debug\net6.0\SampleTest.Infra.EFSql.csproj.CoreCompileInputs.cache
+E:\SaraWorkspace\subject\SampleTest\Infrastructure\SampleTest.Infra.EFSql\obj\Debug\net6.0\SampleTest.Infra.EFSql.csproj.CopyComplete
+E:\SaraWorkspace\subject\SampleTest\Infrastructure\SampleTest.Infra.EFSql\obj\Debug\net6.0\SampleTest.Infra.EFSql.dll
+E:\SaraWorkspace\subject\SampleTest\Infrastructure\SampleTest.Infra.EFSql\obj\Debug\net6.0\refint\SampleTest.Infra.EFSql.dll
+E:\SaraWorkspace\subject\SampleTest\Infrastructure\SampleTest.Infra.EFSql\obj\Debug\net6.0\SampleTest.Infra.EFSql.pdb
+E:\SaraWorkspace\subject\SampleTest\Infrastructure\SampleTest.Infra.EFSql\obj\Debug\net6.0\SampleTest.Infra.EFSql.genruntimeconfig.cache
+E:\SaraWorkspace\subject\SampleTest\Infrastructure\SampleTest.Infra.EFSql\obj\Debug\net6.0\ref\SampleTest.Infra.EFSql.dll
